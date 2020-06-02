@@ -3,7 +3,7 @@ Example code of core programming concepts
 
 This folder includes code explaining different programming conepts. The languange used is Python. Topics include: 
 
-Reusing functions
+Reusing functions \n
 Local vs. global variables
 Creating and naming custom objects
 Class inheritance
